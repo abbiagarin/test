@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+    font-family: bell MT;
+    font-size: large;
+    color:rgb(97, 95, 100); 
+    
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    text-align:justify;
+    
+}
+
+h2,h1{
+    color: black;
+
+}
+    
+#navbar a{
+    text-decoration: none; 
+    color: rgb(123, 117, 192);
+    padding:7px;
+
+}
+
+img{
+    width:120%;
+    
+}
+
+#main a{
+    text-decoration: none;
+    color:rgb(123, 117, 192);
+}
+
+#img-txt{
+    font-size: medium;
+}
+
+
